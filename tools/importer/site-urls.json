@@ -1,0 +1,153 @@
+{
+  "originUrl": "https://www.pictet.com",
+  "aborted": false,
+  "urls": [
+    {
+      "url": "https://www.pictet.com/ch/fr",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr",
+      "id": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/a-propos",
+      "id": "135e4cc7d5e157466eb08af51e2251814beb4bb3"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+      "id": "0846aee2b89303f4010f850c694ac7ab58629b6a"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11april2025",
+      "id": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/a-propos/stability",
+      "id": "557ab4b882aa983a642e312dfe77deaf952e04bc"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+      "id": "4da4881be1f0d056a96bcb51a7015a8613329bf6"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/asset-management",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/asset-management",
+      "id": "08bcbc71cc0982193f962fe19e4e1c23da3caadb"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/asset-services",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/asset-services",
+      "id": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/gestion-alternative",
+      "id": "e00188ede22e1d8764c891a1560ee292362be3b0"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/insights",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/insights",
+      "id": "7b767f665fbbe0e5d21f634abe5e088b46013c9a"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/insights/am/luxury-sector-innovation",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/insights/am/luxury-sector-innovation",
+      "id": "c62e2f5787929644ec9fd0cae51338706b5a3859"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-tariffs-hiccup",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/insights/weekly-house-view-tariffs-hiccup",
+      "id": "638f169301d484aaff8a631b23ee4bb43d08952d"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-the-fed-put-is-back-on",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/insights/weekly-house-view-the-fed-put-is-back-on",
+      "id": "1345403e21e22ae78ecb54307d0f9af5471b4113"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/intermediaires-financiers",
+      "id": "08b485318dde2bc82922ca2cc800560f852ef842"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/investisseurs-institutionnels",
+      "id": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/particuliers-et-familles",
+      "id": "01291ec4a73727bb9e1521d6610ca8b470223ece"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+      "id": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/une-vision-responsable",
+      "id": "528c43d7faab4520c0702f0fceb902eef7b9c47f"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+      "id": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/une-vision-responsable/prix-pictet",
+      "id": "e62f0857a4b6347345f9860925b116c0d79a2408"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/une-vision-responsable/responsabilite-environnementale",
+      "id": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/wealth-management",
+      "source": "MANUAL",
+      "targetPath": "/ch/fr/wealth-management",
+      "id": "f823d0aebbd682c761e19af36791a47801383430"
+    }
+  ],
+  "lastCrawled": null,
+  "crawlOptions": {
+    "timeout": 64800000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "manual",
+    "strategiesAttempted": [
+      "MANUAL"
+    ]
+  },
+  "extractionErrors": [],
+  "errorCountMessage": "none"
+}
