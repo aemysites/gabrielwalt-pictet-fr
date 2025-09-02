@@ -1,0 +1,2152 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+          "uuid": "08bcbc71-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-the-fed-put-is-back-on",
+          "urlHash": "1345403e21e22ae78ecb54307d0f9af5471b4113",
+          "uuid": "1345403e-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+          "uuid": "528c43d7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+          "uuid": "59ebf9fc-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-tariffs-hiccup",
+          "urlHash": "638f169301d484aaff8a631b23ee4bb43d08952d",
+          "uuid": "638f1693-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights",
+          "urlHash": "7b767f665fbbe0e5d21f634abe5e088b46013c9a",
+          "uuid": "7b767f66-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/am/luxury-sector-innovation",
+          "urlHash": "c62e2f5787929644ec9fd0cae51338706b5a3859",
+          "uuid": "c62e2f57-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+          "uuid": "e00188ed-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+          "uuid": "e1aebb31-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/wealth-management",
+          "urlHash": "f823d0aebbd682c761e19af36791a47801383430",
+          "uuid": "f823d0ae-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ],
+      "styles": {
+        "height": 48
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-14-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-18-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-12-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+          "uuid": "08bcbc71-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-the-fed-put-is-back-on",
+          "urlHash": "1345403e21e22ae78ecb54307d0f9af5471b4113",
+          "uuid": "1345403e-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-18-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-13-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-09-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+          "uuid": "528c43d7-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+          "uuid": "59ebf9fc-08-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-tariffs-hiccup",
+          "urlHash": "638f169301d484aaff8a631b23ee4bb43d08952d",
+          "uuid": "638f1693-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-14-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights",
+          "urlHash": "7b767f665fbbe0e5d21f634abe5e088b46013c9a",
+          "uuid": "7b767f66-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-13-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/am/luxury-sector-innovation",
+          "urlHash": "c62e2f5787929644ec9fd0cae51338706b5a3859",
+          "uuid": "c62e2f57-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+          "uuid": "e00188ed-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+          "uuid": "e1aebb31-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-09-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+          "xpath": "/html[1]/body[1]/div[5]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/wealth-management",
+          "urlHash": "f823d0aebbd682c761e19af36791a47801383430",
+          "uuid": "f823d0ae-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+          "xpath": "/html[1]/body[1]/div[6]"
+        }
+      ],
+      "styles": {
+        "background": "rgb(247, 247, 247) none repeat scroll 0% 0% / auto padding-box border-box"
+      }
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-11-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-15-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-09-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+          "uuid": "08bcbc71-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-15-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+          "uuid": "528c43d7-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+          "uuid": "59ebf9fc-05-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-11-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-10-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+          "uuid": "e00188ed-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+          "uuid": "e1aebb31-04-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-06-e16edbc8082317536381017fb00a9ca605c778df",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 4,
+      "source": "Columns",
+      "target": "Columns (columns4)",
+      "key": "columns4",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-10-adbc6f24b51acc32e06cf2efc6ed48ba69e96293",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 5,
+      "source": "Cards",
+      "target": "Cards (cards5)",
+      "key": "cards5",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-06-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 6,
+      "source": "Columns",
+      "target": "Columns (columns6)",
+      "key": "columns6",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-09-58a88a5d9fecc05269fc250ea335376c95d3a0f2",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-08-507c830c3e7772f21df2987cfad825c936bd9ebf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-14-68bbefad980ae7baa20a293cee846083c97b6a32",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[13]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-06-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-09-58a88a5d9fecc05269fc250ea335376c95d3a0f2",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 7,
+      "source": "Columns",
+      "target": "Columns (columns7)",
+      "key": "columns7",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-07-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-08-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-08-507c830c3e7772f21df2987cfad825c936bd9ebf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 8,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages8)",
+      "key": "cardsNoImages8",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-09-58a88a5d9fecc05269fc250ea335376c95d3a0f2",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-10-adbc6f24b51acc32e06cf2efc6ed48ba69e96293",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 9,
+      "source": "Columns",
+      "target": "Columns (columns9)",
+      "key": "columns9",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-13-1aed7ec5422a987cc8b573f89f61c0d5d40f3ea1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[10]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-06-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-07-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-04-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 11,
+      "source": "Columns",
+      "target": "Columns (columns11)",
+      "key": "columns11",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-12-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-16-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-10-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+          "uuid": "08bcbc71-05-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-16-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-11-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-05-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-05-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+          "uuid": "528c43d7-05-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-05-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+          "uuid": "59ebf9fc-06-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-12-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-11-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+          "uuid": "e00188ed-05-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+          "uuid": "e1aebb31-05-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-07-462e95d8e3907185f502b7bda47b6f7eea23986d",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 12,
+      "source": "Columns",
+      "target": "Columns (columns12)",
+      "key": "columns12",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-05-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-06-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-07-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-08-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-09-507c830c3e7772f21df2987cfad825c936bd9ebf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-10-58a88a5d9fecc05269fc250ea335376c95d3a0f2",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-11-adbc6f24b51acc32e06cf2efc6ed48ba69e96293",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 13,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages13)",
+      "key": "cardsNoImages13",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 14,
+      "source": "Header",
+      "target": "Header (header14)",
+      "key": "header14",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+          "uuid": "08bcbc71-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+          "uuid": "528c43d7-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+          "uuid": "59ebf9fc-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+          "uuid": "e00188ed-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+          "uuid": "e1aebb31-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-00-3e64bcd1fcc2d5941e46891a0e6bf014c2422c1f",
+          "xpath": "/html[1]/body[1]/div[1]/header[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 15,
+      "source": "Cards",
+      "target": "Cards (cards15)",
+      "key": "cards15",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-06-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-07-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-06-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 16,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+          "uuid": "08bcbc71-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+          "uuid": "528c43d7-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+          "uuid": "59ebf9fc-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+          "uuid": "e00188ed-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+          "uuid": "e1aebb31-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-01-78faefbf1ee1b735260f2f53cfcbfbbbf53224e4",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 17,
+      "source": "Columns",
+      "target": "Columns (columns17)",
+      "key": "columns17",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+          "uuid": "e00188ed-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 18,
+      "source": "Cards",
+      "target": "Cards (cards18)",
+      "key": "cards18",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-07-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-06-cf5b2710b3888adab972f68cac8a8c0df6f31e3e",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-07-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 19,
+      "source": "Columns",
+      "target": "Columns (columns19)",
+      "key": "columns19",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 20,
+      "source": "Columns",
+      "target": "Columns (columns20)",
+      "key": "columns20",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-02-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 21,
+      "source": "Columns",
+      "target": "Columns (columns21)",
+      "key": "columns21",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-11-a046310f22fd438819102ae199d4464eedb95042",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]",
+          "section": "section-3"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-09-507c830c3e7772f21df2987cfad825c936bd9ebf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+          "section": "section-3"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 22,
+      "source": "Columns",
+      "target": "Columns (columns22)",
+      "key": "columns22",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-the-fed-put-is-back-on",
+          "urlHash": "1345403e21e22ae78ecb54307d0f9af5471b4113",
+          "uuid": "1345403e-01-84a7dcf80ed79a4fe390c74d1a0bb32869c333a2",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-tariffs-hiccup",
+          "urlHash": "638f169301d484aaff8a631b23ee4bb43d08952d",
+          "uuid": "638f1693-01-84a7dcf80ed79a4fe390c74d1a0bb32869c333a2",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights",
+          "urlHash": "7b767f665fbbe0e5d21f634abe5e088b46013c9a",
+          "uuid": "7b767f66-01-84a7dcf80ed79a4fe390c74d1a0bb32869c333a2",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/am/luxury-sector-innovation",
+          "urlHash": "c62e2f5787929644ec9fd0cae51338706b5a3859",
+          "uuid": "c62e2f57-01-84a7dcf80ed79a4fe390c74d1a0bb32869c333a2",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/wealth-management",
+          "urlHash": "f823d0aebbd682c761e19af36791a47801383430",
+          "uuid": "f823d0ae-01-84a7dcf80ed79a4fe390c74d1a0bb32869c333a2",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-04-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-13-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-17-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+          "uuid": "08b48531-11-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+          "uuid": "08bcbc71-06-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-the-fed-put-is-back-on",
+          "urlHash": "1345403e21e22ae78ecb54307d0f9af5471b4113",
+          "uuid": "1345403e-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-17-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-12-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-06-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+          "uuid": "3bd59904-06-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-08-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+          "uuid": "528c43d7-06-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-06-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+          "uuid": "59ebf9fc-07-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-tariffs-hiccup",
+          "urlHash": "638f169301d484aaff8a631b23ee4bb43d08952d",
+          "uuid": "638f1693-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-13-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights",
+          "urlHash": "7b767f665fbbe0e5d21f634abe5e088b46013c9a",
+          "uuid": "7b767f66-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+          "uuid": "a673edbf-12-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/am/luxury-sector-innovation",
+          "urlHash": "c62e2f5787929644ec9fd0cae51338706b5a3859",
+          "uuid": "c62e2f57-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+          "uuid": "e00188ed-06-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+          "uuid": "e1aebb31-06-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-08-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/wealth-management",
+          "urlHash": "f823d0aebbd682c761e19af36791a47801383430",
+          "uuid": "f823d0ae-00-6419c5482dba87d55497e10067ddb965e78fe885",
+          "xpath": "/html[1]/body[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 25,
+      "source": "Columns",
+      "target": "Columns (columns25)",
+      "key": "columns25",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 26,
+      "source": "Columns",
+      "target": "Columns (columns26)",
+      "key": "columns26",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+          "uuid": "557ab4b8-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 27,
+      "source": "Columns",
+      "target": "Columns (columns27)",
+      "key": "columns27",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+          "uuid": "528c43d7-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards (no images)",
+      "cluster": 28,
+      "source": "Cards",
+      "target": "Cards (cardsNoImages28)",
+      "key": "cardsNoImages28",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-2"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-05-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-2"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 29,
+      "source": "Columns",
+      "target": "Columns (columns29)",
+      "key": "columns29",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+          "uuid": "59ebf9fc-04-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 30,
+      "source": "Columns",
+      "target": "Columns (columns30)",
+      "key": "columns30",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-10-adbc6f24b51acc32e06cf2efc6ed48ba69e96293",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[8]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 31,
+      "source": "Cards",
+      "target": "Cards (cards31)",
+      "key": "cards31",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+          "uuid": "e1aebb31-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 32,
+      "source": "Columns",
+      "target": "Columns (columns32)",
+      "key": "columns32",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-07-156cc79f50798354e6c7f2563445a81c0d35a93f",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[5]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 33,
+      "source": "Columns",
+      "target": "Columns (columns33)",
+      "key": "columns33",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+          "uuid": "08bcbc71-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 34,
+      "source": "Hero",
+      "target": "Hero (hero34)",
+      "key": "hero34",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+          "uuid": "66ee9c03-02-ff713fdafd9c4057b084722236747b3cfa3a8a93",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-12-a046310f22fd438819102ae199d4464eedb95042",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[9]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 36,
+      "source": "Columns",
+      "target": "Columns (columns36)",
+      "key": "columns36",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-05-3bfb7e9f7949209ebed12e68a16d55c0da1ce554",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 37,
+      "source": "Columns",
+      "target": "Columns (columns37)",
+      "key": "columns37",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-08-507c830c3e7772f21df2987cfad825c936bd9ebf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 38,
+      "source": "Columns",
+      "target": "Columns (columns38)",
+      "key": "columns38",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+          "uuid": "0846aee2-14-9fa65e97fbcd7a50412943aa8548a0f787e9e0b5",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 39,
+      "source": "Columns",
+      "target": "Columns (columns39)",
+      "key": "columns39",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-04-7ae90147b1780f82c93ab22553bb838380d4e89f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Video",
+      "cluster": 40,
+      "source": "Video",
+      "target": "Video (video40)",
+      "key": "video40",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-05-82763c89ed159bdb9200fb13d7446ff5b95bd86e",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 41,
+      "source": "Columns",
+      "target": "Columns (columns41)",
+      "key": "columns41",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-08-507c830c3e7772f21df2987cfad825c936bd9ebf",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 42,
+      "source": "Columns",
+      "target": "Columns (columns42)",
+      "key": "columns42",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-12-9fa65e97fbcd7a50412943aa8548a0f787e9e0b5",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[11]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+          "uuid": "135e4cc7-13-9ad1eadf9380e87ebe93ac740dcbd154a682c9e8",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[12]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 43,
+      "source": "Columns",
+      "target": "Columns (columns43)",
+      "key": "columns43",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+          "uuid": "3bad2cb1-03-9f61191f31e3e4bac6b87cad77b32d637624b2b1",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 44,
+      "source": "Columns",
+      "target": "Columns (columns44)",
+      "key": "columns44",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+          "uuid": "4da4881b-06-a85ded14ef502ec3ae0557b51e9f108c5068366f",
+          "xpath": "/html[1]/body[1]/div[1]/footer[1]/div[1]/div[3]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 45,
+      "source": "Cards",
+      "target": "Cards (cards45)",
+      "key": "cards45",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+          "uuid": "01291ec4-03-b0bec792bff7b300babdf5cb36e9fff27ff85630",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 46,
+      "source": "Columns",
+      "target": "Columns (columns46)",
+      "key": "columns46",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+          "uuid": "1a7ca340-09-58a88a5d9fecc05269fc250ea335376c95d3a0f2",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[7]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 47,
+      "source": "Cards",
+      "target": "Cards (cards47)",
+      "key": "cards47",
+      "instances": [
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+          "uuid": "e62f0857-04-7b293b339afc7820185724b4595871c46490ddca",
+          "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+          "section": "section-1"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+      "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+      "uuid": "01291ec4-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+      "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+      "uuid": "01291ec4-04-7b293b339afc7820185724b4595871c46490ddca",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+      "urlHash": "01291ec4a73727bb9e1521d6610ca8b470223ece",
+      "uuid": "01291ec4-14-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+      "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+      "uuid": "0846aee2-03-938729b38fb04882afcfc2d7cf9f9ee7dd369c45",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+      "urlHash": "0846aee2b89303f4010f850c694ac7ab58629b6a",
+      "uuid": "0846aee2-18-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+      "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+      "uuid": "08b48531-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+      "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+      "uuid": "08b48531-04-7b293b339afc7820185724b4595871c46490ddca",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+      "urlHash": "08b485318dde2bc82922ca2cc800560f852ef842",
+      "uuid": "08b48531-12-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/asset-management",
+      "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+      "uuid": "08bcbc71-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/asset-management",
+      "urlHash": "08bcbc71cc0982193f962fe19e4e1c23da3caadb",
+      "uuid": "08bcbc71-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-the-fed-put-is-back-on",
+      "urlHash": "1345403e21e22ae78ecb54307d0f9af5471b4113",
+      "uuid": "1345403e-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+      "xpath": "/html[1]/body[1]/div[6]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos",
+      "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+      "uuid": "135e4cc7-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos",
+      "urlHash": "135e4cc7d5e157466eb08af51e2251814beb4bb3",
+      "uuid": "135e4cc7-18-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+      "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+      "uuid": "1a7ca340-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+      "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+      "uuid": "1a7ca340-08-507c830c3e7772f21df2987cfad825c936bd9ebf",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[6]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+      "urlHash": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8",
+      "uuid": "1a7ca340-13-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+      "urlHash": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2",
+      "uuid": "3bad2cb1-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+      "urlHash": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f",
+      "uuid": "3bd59904-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+      "urlHash": "4da4881be1f0d056a96bcb51a7015a8613329bf6",
+      "uuid": "4da4881b-09-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+      "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+      "uuid": "528c43d7-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+      "urlHash": "528c43d7faab4520c0702f0fceb902eef7b9c47f",
+      "uuid": "528c43d7-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+      "urlHash": "557ab4b882aa983a642e312dfe77deaf952e04bc",
+      "uuid": "557ab4b8-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/asset-services",
+      "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+      "uuid": "59ebf9fc-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/asset-services",
+      "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+      "uuid": "59ebf9fc-03-938729b38fb04882afcfc2d7cf9f9ee7dd369c45",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/nav[1]"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/asset-services",
+      "urlHash": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590",
+      "uuid": "59ebf9fc-08-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-tariffs-hiccup",
+      "urlHash": "638f169301d484aaff8a631b23ee4bb43d08952d",
+      "uuid": "638f1693-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+      "xpath": "/html[1]/body[1]/div[6]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr",
+      "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+      "uuid": "66ee9c03-01-dc6b9a2310483564e37f8a5839331dd2fd1489ee",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr",
+      "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+      "uuid": "66ee9c03-03-17f1f9b884da3a8b6c62f9695d66320782f7d2fa",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr",
+      "urlHash": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f",
+      "uuid": "66ee9c03-14-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/insights",
+      "urlHash": "7b767f665fbbe0e5d21f634abe5e088b46013c9a",
+      "uuid": "7b767f66-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+      "xpath": "/html[1]/body[1]/div[6]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+      "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+      "uuid": "a673edbf-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+      "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+      "uuid": "a673edbf-04-7b293b339afc7820185724b4595871c46490ddca",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+      "urlHash": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8",
+      "uuid": "a673edbf-13-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/insights/am/luxury-sector-innovation",
+      "urlHash": "c62e2f5787929644ec9fd0cae51338706b5a3859",
+      "uuid": "c62e2f57-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+      "xpath": "/html[1]/body[1]/div[6]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+      "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+      "uuid": "e00188ed-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+      "urlHash": "e00188ede22e1d8764c891a1560ee292362be3b0",
+      "uuid": "e00188ed-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+      "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+      "uuid": "e1aebb31-02-5d27afef2ead8c4d20c64c267066d70c5fb7f8dc",
+      "xpath": "/html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/main[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/h2[1]",
+      "section": "section-1"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+      "urlHash": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c",
+      "uuid": "e1aebb31-07-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+      "urlHash": "e62f0857a4b6347345f9860925b116c0d79a2408",
+      "uuid": "e62f0857-09-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.pictet.com/ch/fr/wealth-management",
+      "urlHash": "f823d0aebbd682c761e19af36791a47801383430",
+      "uuid": "f823d0ae-02-d580563e7d5c192a7f564fc6e2473b850b1cfbd8",
+      "xpath": "/html[1]/body[1]/div[6]",
+      "section": "section-2"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 147
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(247, 247, 247) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 25
+    },
+    {
+      "name": "section-3",
+      "background": "rgb(242, 237, 236) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 3
+    }
+  ]
+}

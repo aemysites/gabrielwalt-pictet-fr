@@ -1,0 +1,164 @@
+{
+  "templates": [
+    {
+      "name": "'Profile Page'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/wealth-management",
+          "uuid": "f823d0aebbd682c761e19af36791a47801383430"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights",
+          "uuid": "7b767f665fbbe0e5d21f634abe5e088b46013c9a"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-services",
+          "uuid": "59ebf9fc5d6ee7db72a8a7fff6a6d9f8eba16590"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable",
+          "uuid": "528c43d7faab4520c0702f0fceb902eef7b9c47f"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos",
+          "uuid": "135e4cc7d5e157466eb08af51e2251814beb4bb3"
+        }
+      ]
+    },
+    {
+      "name": "E-commerce Product Page",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/fondation-groupe-pictet",
+          "uuid": "1a7ca340a0ee8fdfc594628e30c0eeafb5d09cb8"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/responsabilite-environnementale",
+          "uuid": "e1aebb315b745ca01787450b7cf6e4f09fcf2c7c"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/une-vision-responsable/prix-pictet",
+          "uuid": "e62f0857a4b6347345f9860925b116c0d79a2408"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/relations-medias/press-coverage/nzz-zsolt-kohalmi-june-2025",
+          "uuid": "3bd59904a79e3f4d10578c9990b4b67d7b82ba1f"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/am/luxury-sector-innovation",
+          "uuid": "c62e2f5787929644ec9fd0cae51338706b5a3859"
+        }
+      ]
+    },
+    {
+      "name": "E-commerce Catalog Template",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/asset-management",
+          "uuid": "08bcbc71cc0982193f962fe19e4e1c23da3caadb"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/particuliers-et-familles",
+          "uuid": "01291ec4a73727bb9e1521d6610ca8b470223ece"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/gestion-alternative",
+          "uuid": "e00188ede22e1d8764c891a1560ee292362be3b0"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/investisseurs-institutionnels",
+          "uuid": "a673edbfe77bbcdfc88e881e6a0d7a152715b4b8"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/intermediaires-financiers",
+          "uuid": "08b485318dde2bc82922ca2cc800560f852ef842"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/stability",
+          "uuid": "557ab4b882aa983a642e312dfe77deaf952e04bc"
+        }
+      ]
+    },
+    {
+      "name": "'Blog Listing Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/histoire-de-pictet/story-worth-telling",
+          "uuid": "0846aee2b89303f4010f850c694ac7ab58629b6a"
+        }
+      ]
+    },
+    {
+      "name": "Product Page",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/actualites-et-publications/partners-media/interview-with-raymond-sagayam-in-finanz-und-wirtschaft-27august2025",
+          "uuid": "4da4881be1f0d056a96bcb51a7015a8613329bf6"
+        }
+      ]
+    },
+    {
+      "name": "'Product Page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/a-propos/pictet-research-institute/press-coverage/barrons-brics-article-11April2025",
+          "uuid": "3bad2cb17cbea0d380142b5fc4a55ce904fbb6c2"
+        }
+      ]
+    },
+    {
+      "name": "Dashboard Template",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr",
+          "uuid": "66ee9c032441eab87af5a2c2b6aa17693f8ada1f"
+        }
+      ]
+    },
+    {
+      "name": "Form Page",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-the-fed-put-is-back-on",
+          "uuid": "1345403e21e22ae78ecb54307d0f9af5471b4113"
+        },
+        {
+          "url": "https://www.pictet.com/ch/fr/insights/weekly-house-view-tariffs-hiccup",
+          "uuid": "638f169301d484aaff8a631b23ee4bb43d08952d"
+        }
+      ]
+    }
+  ]
+}
